@@ -1,0 +1,18 @@
+{
+  "version": 1,
+  "level": "C1",
+  "preset": "auto",
+  "caseRoot": "test",
+  "lanes": {
+    "build": {
+      "commands": [
+        "npm test"
+      ]
+    },
+    "pr-ready": {
+      "commands": [
+        "npm test"
+      ]
+    }
+  }
+}
