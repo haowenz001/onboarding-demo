@@ -1,0 +1,9 @@
+{
+  "name": "onboarding-demo",
+  "version": "1.0.0",
+  "private": true,
+  "description": "control-plane onboarding demo",
+  "scripts": {
+    "test": "node -e \"console.log(\\\"ok\\\")\""
+  }
+}
